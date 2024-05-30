@@ -4,7 +4,7 @@
 #EXTINF:-1 tvg-id="" tvg-name="CCTV1" tvg-logo="" group-title="央视频道",CCTV1
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视频道",CCTV2
-http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221226540/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225588/index.m3u8
+http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221226540测试/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225588/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV3" tvg-logo="" group-title="央视频道",CCTV3
 http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221226021/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV4" tvg-logo="" group-title="央视频道",CCTV4
